@@ -29,11 +29,7 @@ build/
 dist/
 *.egg-info
 
-# Images & outputs
-output/
-*.png
-*.jpg
-*.jpeg
+
 
 # Large data files
 data/
